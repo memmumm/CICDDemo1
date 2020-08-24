@@ -1,0 +1,1 @@
+![mervi-demo application](https://github.com/MerviSiipilahde/CICDDemo1/workflows/mervi-demo%20application/badge.svg)
